@@ -13,6 +13,7 @@ weight: 10
 
 ## 登录
 
+如果需要登录网页控制台，先设置防火墙，允许 TCP 80 , 443 , 21114 
 如同之前所述，网页控制台的预设端口为 21114。在浏览器输入 `http://<hbbs host>:21114` 以进入控制台页面。如下图所示 (hbbs 执行在 IP 为 192.168.1.143 的服务器上)：
 ![](/docs/en/self-host/rustdesk-server-pro/console/images/console-login.png)
 
