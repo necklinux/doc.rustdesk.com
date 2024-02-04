@@ -164,7 +164,7 @@ If you do not want to build the Docker image yourself, you can use the image I b
 - Pull the image:
 
 ```sh
-docker pull keyurbhole/flutter_web_desk
+docker pull keyurbhole/flutter_web_desk:v1.0.0
 ```
 
 - Run the image:
